@@ -1,26 +1,30 @@
+.p1{
+padding-left: 325px;
+}
+
 .p2{
-padding-top: 51px;
- margin-top: 51px;
- padding-bottom: -51px;
- margin-bottom: -51px;
+padding-top: 75px;
+padding-left: 325px;
  background-color: #F8F9FA;
 }
+
   .p3{
     padding-top: 50px;
-    margin-top: 50px;
-    margin-bottom: 50px;
-    padding-right: 50px;
+    padding-left: 325px;
   }
 
   .container{
     background-color: #1874fd;
-  }
+    height: 300px;
+ }
+
    .container h1{
     color: white;
     padding-left: 200px;
     margin-left: 200px;
     margin-right: -200px;
     padding-right: -200px;
+    padding-top: 100px;
    }
     .container p{
         color: white;
@@ -29,9 +33,18 @@ padding-top: 51px;
         margin-right: -179px;
         padding-right: -179px;
     }
+    
     .button{
-        padding-right: 50px;
-        margin-right: 50px;
-        margin-left: 50px;
+        padding-right: -50px;
         padding-left: 50px;
     }
+    .container2{
+        background-color: black;
+        width: 1190px;
+        height: 75px;
+      }
+
+   .container2 h2{
+   color: white;
+  padding-left: 385px;
+   }
