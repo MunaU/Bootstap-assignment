@@ -1,0 +1,37 @@
+.p2{
+padding-top: 51px;
+ margin-top: 51px;
+ padding-bottom: -51px;
+ margin-bottom: -51px;
+ background-color: #F8F9FA;
+}
+  .p3{
+    padding-top: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding-right: 50px;
+  }
+
+  .container{
+    background-color: #1874fd;
+  }
+   .container h1{
+    color: white;
+    padding-left: 200px;
+    margin-left: 200px;
+    margin-right: -200px;
+    padding-right: -200px;
+   }
+    .container p{
+        color: white;
+        padding-left: 179px;
+        margin-left: 179px;
+        margin-right: -179px;
+        padding-right: -179px;
+    }
+    .button{
+        padding-right: 50px;
+        margin-right: 50px;
+        margin-left: 50px;
+        padding-left: 50px;
+    }
