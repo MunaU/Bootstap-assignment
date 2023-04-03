@@ -1,0 +1,41 @@
+.nav-text h5{
+    font-size: xx-large;
+  padding-left: 75px;
+}
+
+.nav-text p{
+    size: 75px;
+}
+
+.colors{
+    background-color: antiquewhite;
+    height: 20p;
+}
+
+.color2{
+    background-color: rgb(151, 255, 167);
+}
+
+.color3{
+    background-color: rgb(201, 0, 227);
+}
+
+.col-lg-2{
+    background-color: rgb(255, 214, 246);
+}
+
+.col-lg-8{
+    background-color: rgb(203, 249, 255);
+
+}
+
+.col-lg-7{
+    background-color: rgb(20, 255, 216);
+}
+
+
+.col-lg-3{
+    background-color: rgb(193, 193, 193);
+}
+
+
